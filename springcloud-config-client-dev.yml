@@ -1,5 +1,4 @@
 grade: 6 
-age: 10 
-spring: 
+age: 10  
         server: 
         port: 8085 
